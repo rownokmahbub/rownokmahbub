@@ -1,10 +1,13 @@
+<img align="center" alt="Coding" width="1500" src="https://github.com/mehbuburrahman/protfoliosite/blob/main/img/github-head.jpg">
+
 Hi 👋 My name is Rownok
 =======================
 
 Front End Web Developer
 -----------------------
-
-I've been learning code for 2 years.I know HTML, CSS, JAVASCRIPT, REACTJS, NEXTJS, TAILWINDCSS, BOOTSTRAP,WORDPRESS,PHP.Programming is my passion. I love doing code all the time.
+<P align="left">I've been learning code for 2 years.I know HTML, CSS, JAVASCRIPT, REACTJS, NEXTJS, TAILWINDCSS, BOOTSTRAP,WORDPRESS,PHP.Programming is my passion. I love doing code all the time.
+  </p>
+<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [romaxdev](http://romaxdev.xyz)
@@ -12,7 +15,7 @@ I've been learning code for 2 years.I know HTML, CSS, JAVASCRIPT, REACTJS, NEXTJ
 * 🚀  I'm currently working on [Duty-Pedia](http://dutypedia.com)
 * 🧠  I'm learning Node Js ,Mongodb
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  I'm secrectly spiderman but did't tell anyone
+* ⚡  I'm secrectly spiderman but didn't tell anyone
 
 ### Skills
 
