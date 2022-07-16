@@ -13,7 +13,7 @@ Front End Web Developer
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [romaxdev](http://romaxdev.xyz)
-* ✉️  You can contact me at [mrahmah191107@bscse.uiu.ac.bd](mailto:mrahmah191107@bscse.uiu.ac.bd)
+* ✉️  You can contact me at [rownok2001@gmail.com](mailto:rownok2001@gmail.com)
 * 🚀  I'm currently working on [Duty-Pedia](http://dutypedia.com)
 * 🧠  I'm learning Node Js ,Mongodb
 * 🤝  I'm open to collaborating on interesting project
